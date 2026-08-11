@@ -1,0 +1,24 @@
+# mg Magazine Media Kit
+
+> mg Magazine is a cannabis business media and marketing partner. This media kit describes services designed to help cannabis industry companies earn visibility, authority, engagement, qualified interest, and measurable business opportunity.
+
+Canonical page: https://brandi-lgtm.github.io/mgMagazine_Media-Kit_2026/
+Primary publication: https://mgmagazine.com/
+Contact: brandi@inc-media.com
+
+## Services
+
+- AI Discoverability: Structured Company Profiles designed for people, search engines, and AI systems.
+- Full-service Webinars: Strategy, landing pages, registration, promotion, live production, reporting, and on-demand distribution.
+- Integrated Programs: Content, press, AI discovery, webinars, video, lead generation, and media built around commercial objectives.
+- Articles and Press: Branded articles, thought leadership, contributed content, press release support, and executive storytelling.
+- Video and Custom Projects: Interviews, brand stories, explainers, research, surveys, buyer guides, and landing pages.
+- Visibility and Lead Generation: Premium display advertising, newsletter sponsorship, and native lead generation.
+
+## Audience
+
+mg Magazine serves cannabis retailers, cultivators, technology providers, financial services, packaging companies, professional services, brands, investors, and policy organizations.
+
+## Digital Advertising Specifications
+
+https://storage.googleapis.com/mgmagazine-videos/Digital%20Ad%20Specs_2025%20_NEW_0808-2025.pdf
