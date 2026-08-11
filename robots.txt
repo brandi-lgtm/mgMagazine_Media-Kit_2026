@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://brandi-lgtm.github.io/mgMagazine_Media-Kit_2026/sitemap.xml
